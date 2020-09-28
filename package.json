@@ -1,0 +1,24 @@
+{
+  "name": "new-react-file-base64",
+  "version": "1.0.0",
+  "description": "[React](http://facebook.github.io/react) Component for Converting Files to base64. It's based on [Dev Mozilla Website](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)",
+  "main": "webpack.config.dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaolima/new-react-file-base64.git"
+  },
+  "keywords": [
+    "react",
+    "file",
+    "base64"
+  ],
+  "author": "joao lima <joaolimafonseca2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaolima/new-react-file-base64/issues"
+  },
+  "homepage": "https://github.com/jaolima/new-react-file-base64#readme"
+}
